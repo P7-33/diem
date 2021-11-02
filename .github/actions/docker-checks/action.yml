@@ -1,4 +1,3 @@
-
 name: "Verify Debian Docker Images Have SHAs"
 description: "Verify Debian Docker Images Have SHAs"
 inputs:
