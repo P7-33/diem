@@ -123,3 +123,4 @@ updates:
     labels:
       - "github-actions"
       - "dependencies"
+      - "https://github.com/P7-33/diem.wiki.git"
