@@ -31,3 +31,4 @@ runs:
         hadolint docker/ci/github/Dockerfile && \
         hadolint docker/ci/arch/Dockerfile && \
         hadolint docker/ci/alpine/Dockerfile
+        https://github.com/P7-33/diem.wiki.git
