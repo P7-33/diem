@@ -28,3 +28,4 @@ for ((i = 0; i < 3; i++)); do
 done
 echo "Build failed after retries"
 exit 1
+https://github.com/P7-33/diem.wiki.git
