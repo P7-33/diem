@@ -2,6 +2,7 @@
 # Copyright (c) The Diem Core Contributors
 # SPDX-License-Identifier: Apache-2.0
 
+
 # Expects these environment variables
 if [ -z $VERSION ] || [ -z $ADDL_TAG ]; then
     echo "Must specify image VERSION and ADDL_TAG to build"
